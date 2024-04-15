@@ -51,7 +51,7 @@ $ curl -X POST -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","method"
 {"jsonrpc":"2.0","result":{"amount":1000},"id":1}
 ```
 
-# How to run the sov-rollup-starter using celestia-da:
+# How to run the rollup using celestia-da:
 #### 1. Change the working directory:
 
 ```
