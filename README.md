@@ -5,7 +5,7 @@ This package is a convenient starting point for building a rollup using the Sove
 - `crates/provers`: This crate is responsible for creating proofs for the `STF`.
 - `crates/rollup`: This crate runs the `STF` and offers additional full-node functionalities.
 
-# How to run the sov-rollup-starter:
+# How to run paragon:
 #### 1. Change the working directory:
 
 ```shell,test-ci

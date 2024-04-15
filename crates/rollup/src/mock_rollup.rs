@@ -1,5 +1,4 @@
 #![deny(missing_docs)]
-//! StarterRollup provides a minimal self-contained rollup implementation
 
 use async_trait::async_trait;
 use sov_db::ledger_db::LedgerDB;
